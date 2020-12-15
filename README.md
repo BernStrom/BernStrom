@@ -36,7 +36,7 @@
 <p align='center'>
   💻 WORKSPACE SPEC<br/><br/>
   <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2014-999999?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/Intel-Core_i7_4870HQ-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+  <img src="https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/NVIDIA-GT750M-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
