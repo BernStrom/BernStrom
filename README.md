@@ -2,8 +2,6 @@
   👋 Hello Universe! I'm Bern 👨‍💻 
 </h1>
 
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQE54VQu6UnbXw/profile-displaybackgroundimage-shrink_350_1400/0/1603941229093?e=1613606400&v=beta&t=xS_Vj2kmVUO0f6HTpk2knYPbISG5dVbEva5QfNLECyI">
-
 <p align='center'>
   A software engineer & tech blogger from Terra Nova 🌎 
 </p>
