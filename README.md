@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2014-999999?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/Intel-Core_i7_4870HQ-0071C5?style=for-the-badge&logo=intel&logoColor=white">
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/NVIDIA-GT750M-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
 
 ## 🛠️ Tech Stack
@@ -79,17 +80,6 @@
 <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office">&nbsp;
 <img src="" alt="">&nbsp;
-
-<!--
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")&nbsp;
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white "React Router")&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3")&nbsp;
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "Sass")&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "jQuery")&nbsp;
--->
 
 ## 📊 GitHub Analytics
 
