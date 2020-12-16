@@ -30,7 +30,7 @@
    🔭 I’m currently working on my professional portfolio and finding my first engineering role.<br/><br/>
    🌱 I’m currently learning a range of things like React, Python, Ruby on Rails, MongoDB, etc.<br/><br/>
     ✍️ I’m looking to collaborate on anything really. Hit me up if you got some cool ideas to make into reality!<br/><br/>
-   ⚡ Fun fact: I have an obessesion on Xmas and I wish tis' season that will last all year round 🎅 🎄 ☃️
+   ⚡ Fun fact: I have an obessesion on Xmas and I wish tis' the season that will last all year round 🎅 🎄 ☃️
 </p>&nbsp;
 
 <p align='center'>
