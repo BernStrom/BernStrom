@@ -25,7 +25,7 @@
 
 <img src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif" width="250px" height="auto" align="right">
 
-### 🧔 Few Facts About Me
+### 🧔 &nbsp;Few Facts About Me
 
 🔭 &nbsp;I’m currently working on my professional portfolio and finding my first dev role.\
 🌱 &nbsp;I’m currently learning a range of tech stack like React, Python, Rails, MongoDB, etc.\
@@ -36,7 +36,7 @@
 <br />
 <!-- <img src="https://thumbs.gfycat.com/CreativeAthleticCrocodile-small.gif" width="300px" height="225px"> -->
 
-### 💻 Workspace Spec
+### 💻 &nbsp;Workspace Spec
 ![Apple Macbook Pro 2014](https://img.shields.io/badge/Apple-MacBook_Pro_2014-999999?style=for-the-badge&logo=apple&logoColor=white "Apple Macbook Pro")&nbsp;
 ![Intel Core i7 4th](https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white "Intel Core i7 4th")&nbsp;
 ![16GB RAM DDR3](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white "RAM 16GB DDR3")&nbsp;
@@ -44,7 +44,7 @@
 <br />
 <br />
 
-## 🛠️ Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 - **Frontend**\
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
@@ -82,7 +82,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office">&nbsp;
 <img src="" alt="">&nbsp;
 
-## 📊 GitHub Analytics
+## 📊 &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="#"><img src="https://badges.pufler.dev/repos/bernstrom"></a>
@@ -101,7 +101,7 @@
   </a>
 </p>
 
-## 🤝 Connect With Me Over ☕
+## 🤝 &nbsp;Connect With Me Over ☕
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/bernn/">
