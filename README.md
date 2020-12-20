@@ -94,7 +94,7 @@
 <p align="center">
   <a href="https://github.com/BernStrom">
     <img src="https://github-readme-stats.vercel.app/api?username=bernstrom&count_private=true&show_icons=true&theme=prussian" width="400">
-  </a>
+  </a>&nbsp;
   
   <a href="https://github.com/BernStrom">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernstrom&langs_count=10&layout=compact&theme=prussian" width="335">
