@@ -23,7 +23,7 @@
 <br />
 <br />
 
-<img src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif" width="300px" height="auto" align="right">
+<img src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif" width="250px" height="auto" align="right">
 
 ### 🧔 Few Facts About Me
 
