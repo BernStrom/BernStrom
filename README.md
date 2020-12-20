@@ -30,7 +30,7 @@
 🔭 &nbsp;I’m currently working on my professional portfolio and finding my first dev role.\
 🌱 &nbsp;I’m currently learning a range of tech stack like React, Python, Rails, MongoDB, etc.\
 ✍️ &nbsp;I’m open to collaboration. Hit me up if you got some cool ideas to make into reality!\
-🦁 &nbsp;I'm also a fitness enthusiast and an avid gamer. Don't Starve Together, anyone? 👾\
+🦁 &nbsp;I'm also a fitness enthusiast and an avid gamer. _Don't Starve Together_, anyone? 👾\
 ⚡ &nbsp;**Fun fact:** "Winter Feast" tis' the season I wish would last all year round 🎅 🎄 ☃️ ☕
 
 <br />
