@@ -1,45 +1,35 @@
-<h1 align='center'>
-  👋 Hello Universe! I'm Bern 👨‍💻 
-</h1>
+# 👋 Hello Universe! I'm Bern 👨‍💻 
 
-<p align='center'>
-  A software engineer & tech blogger from Terra Nova 🌎 
-</p>
-
-<p align='center'>
+<h3>
+  Software engineer & tech blogger from Terra Nova 🌎 
   <a href="https://www.linkedin.com/in/bernn/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">        
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center">        
   </a>
   
   <a href="https://medium.com/@berncodes">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">        
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" align="center">        
   </a>
   
   <a href="https://open.spotify.com/user/bstromv?si=Grn7sbu6RIGGfjmCWBSiAg">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" align="center">
   </a>
-</p>
+</h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif" width="300px" height="auto">
-  <img src="https://thumbs.gfycat.com/CreativeAthleticCrocodile-small.gif" width="300px" height="225px">
-</p>
+## 🧔 About Me
 
-<p align='center'>
-   🧔 ABOUT ME<br/><br/>
-   🔭 I’m currently working on my professional portfolio and finding my first engineering role.<br/><br/>
-   🌱 I’m currently learning a range of things like React, Python, Ruby on Rails, MongoDB, etc.<br/><br/>
-    ✍️ I’m looking to collaborate on anything really. Hit me up if you got some cool ideas to make into reality!<br/><br/>
-   ⚡ Fun fact: I have an obessesion on Xmas and I wish tis' the season that will last all year round 🎅 🎄 ☃️
-</p>&nbsp;
+🔭 &nbsp;I’m currently working on my professional portfolio and finding my first engineering role.\
+🌱 &nbsp;I’m currently learning a range of things like React, Python, Ruby on Rails, MongoDB, etc.\
+✍️ &nbsp;I’m looking to collaborate on anything really. Hit me up if you got some cool ideas to make into reality!\
+⚡ &nbsp;Fun fact: I have an obessesion on Xmas and I wish tis' the season that will last all year round 🎅 🎄 ☃️
 
-<p align='center'>
-  💻 WORKSPACE SPEC<br/><br/>
-  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2014-999999?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/NVIDIA-GT750M-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-</p>
+<!-- <img src="https://thumbs.gfycat.com/CreativeAthleticCrocodile-small.gif" width="300px" height="225px"> -->
+<img src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif" width="300px" height="auto">
+
+## 💻 Workspace Spec
+![Apple Macbook Pro 2014](https://img.shields.io/badge/Apple-MacBook_Pro_2014-999999?style=for-the-badge&logo=apple&logoColor=white "Apple Macbook Pro")&nbsp;
+![Intel Core i7 4th](https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white "Intel Core i7 4th")&nbsp;
+![16GB RAM DDR3](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white "RAM 16GB DDR3")&nbsp;
+![Nvidia GT750M](https://img.shields.io/badge/NVIDIA-GT750M-76B900?style=for-the-badge&logo=nvidia&logoColor=white "NVIDIA GT750M")&nbsp;
 
 ## 🛠️ Tech Stack
 
