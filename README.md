@@ -19,6 +19,8 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" align="center">
   </a>
 </p>
+<br />
+<br />
 
 <img src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif" width="300px" height="auto" align="right">
 
@@ -27,15 +29,17 @@
 🔭 &nbsp;I’m currently working on my professional portfolio and finding my first dev role.\
 🌱 &nbsp;I’m currently learning a range of tech stack like React, Python, Rails, MongoDB, etc.\
 ✍️ &nbsp;I’m open to collaboration. Hit me up if you got some cool ideas to make into reality!\
-⚡ &nbsp;Fun fact: I'm obessesed about Xmas and wish tis' the season would last all year round 🎅 🎄 ☃️
+⚡ &nbsp;Fun fact: "Winter Feast" tis' the season I wish would last all year round 🎅 🎄 ☃️
 
 <!-- <img src="https://thumbs.gfycat.com/CreativeAthleticCrocodile-small.gif" width="300px" height="225px"> -->
 
-## 💻 Workspace Spec
+### 💻 Workspace Spec
 ![Apple Macbook Pro 2014](https://img.shields.io/badge/Apple-MacBook_Pro_2014-999999?style=for-the-badge&logo=apple&logoColor=white "Apple Macbook Pro")&nbsp;
-![Intel Core i7 4th](https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white "Intel Core i7 4th")&nbsp;
+![Intel Core i7 4th](https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white "Intel Core i7 4th")\
 ![16GB RAM DDR3](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white "RAM 16GB DDR3")&nbsp;
 ![Nvidia GT750M](https://img.shields.io/badge/NVIDIA-GT750M-76B900?style=for-the-badge&logo=nvidia&logoColor=white "NVIDIA GT750M")&nbsp;
+<br />
+<br />
 
 ## 🛠️ Tech Stack
 
