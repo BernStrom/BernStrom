@@ -97,7 +97,7 @@
   </a>
   
   <a href="https://github.com/BernStrom">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernstrom&langs_count=10&layout=compact&theme=prussian" width="335">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernstrom&langs_count=10&layout=compact&theme=prussian?hide=stylus" width="335">
   </a>
 </p>
 
