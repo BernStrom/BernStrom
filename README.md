@@ -28,7 +28,7 @@
 ### 🧔 &nbsp;Few Facts About Me
 
 🔭 &nbsp;I’m currently building up my professional portfolio and finding my first dev role.\
-🌱 &nbsp;I’m currently learning a range of tech stack like React, TypeScript, GraphQL, AWS, etc.\
+🌱 &nbsp;I’m currently learning a range of tech stack like React, TypeScript, GraphQL, etc.\
 ✍️ &nbsp;I’m open to collaboration. Hit me up if you got some cool ideas to make into reality!\
 🦁 &nbsp;I'm also a fitness enthusiast and an avid gamer. _Don't Starve Together_, anyone? 👾\
 ⚡ &nbsp;**Fun fact:** "Winter Feast" tis' the season I wish would last all year round 🎅 🎄 ☃️ ☕
