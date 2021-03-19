@@ -97,7 +97,7 @@
 
 <p align="center">
   <a href="https://github.com/BernStrom">
-    <img src="https://github-readme-stats.vercel.app/api?username=bernstrom&count_private=true&show_icons=true&theme=prussian" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=bernstrom&count_private=true&show_icons=true&theme=prussian" width="460">
   </a>
   
   <a href="https://github.com/BernStrom">
