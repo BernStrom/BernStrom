@@ -1,9 +1,9 @@
 <h1 align="center">
-  👋 Hello Universe! I'm Bern 👨‍💻 
+  👋 Sup Nerds! I'm Bern 👨‍💻 
 </h1>
 
 <h3 align="center">
-  Software engineer & tech blogger from Terra Nova 🌎 
+  Software engineer & React/Vue developer from Terra Nova 🌎 
 </h3>
 
 <p align="center">
