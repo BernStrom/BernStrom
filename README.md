@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Software engineer & React/Vue developer from Terra Nova 🌎 
+  Software engineer focusing on React & Vue development from Terra Nova 🌎 
 </h3>
 
 <p align="center">
