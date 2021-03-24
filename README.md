@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Software engineer from Terra Nova 🌎&nbsp; Building the things for hoomans 🧰
+  Building the things for hoomans on Terra Nova 🌎
 </h3>
 
 <p align="center">
