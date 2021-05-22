@@ -28,7 +28,7 @@
 ### 🧔 &nbsp;Few Facts About Me
 
 🖥 &nbsp;I’m currently building up my professional portfolio and searching for my first dev role.\
-🌱 &nbsp;I’m learning more about frontend development in the React ecosystem.\
+🌱 &nbsp;I’m learning more about frontend and mobile development in the React ecosystem.\
 🔭 &nbsp;I’m excited for the future of [Deno](https://deno.land/ "Deno") runtime and watching its development closely.\
 ✍️ &nbsp;I’m always open to collaboration. Hit me up if you got cool ideas to make into reality!\
 🦁 &nbsp;Fitness is a huge part of my life and I'm a gamer. _Don't Starve Together_, anyone? 👾\
