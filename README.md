@@ -7,17 +7,17 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bernn/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center">        
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" align="center">        
   </a>
   
   <a href="https://medium.com/@berncodes">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" align="center">        
   </a>
   
-  <a href="https://open.spotify.com/user/bstromv?si=Grn7sbu6RIGGfjmCWBSiAg">
+<!--   <a href="https://open.spotify.com/user/bstromv?si=Grn7sbu6RIGGfjmCWBSiAg">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" align="center">
-  </a>
+  </a> -->
 </p>
 
 <br />
@@ -106,15 +106,11 @@
   </a>
 </p>
 
-## 🤝 &nbsp;Connect With Me Over ☕
+## 📲 &nbsp;For the Day to Day Deets
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/bernn/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">        
-  </a>&nbsp;
-  
-  <a href="mailto:bernnystrom@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">        
+  <a href="">
+    <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="" title="Follow @... on Twitter">
   </a>
 </p>
 
