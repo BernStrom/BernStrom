@@ -106,7 +106,7 @@
   </a>
 </p>
 
-## 📲 &nbsp;For the Day to Day Deets
+## 📲 &nbsp; Daily Deets
 
 <p align='center'>
   <a href="">
