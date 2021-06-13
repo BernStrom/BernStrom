@@ -85,6 +85,7 @@
 <img src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white" alt="Jest">&nbsp;
 <img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=ffca28" alt="Firebase">&nbsp;
 <img src="https://img.shields.io/badge/eslint-4b32c3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">&nbsp;
+<img src="https://img.shields.io/badge/prettier-1a2b34?style=for-the-badge&logo=prettier&logoColor=f7b93e" alt="Prettier">&nbsp;
 
 ## 📊 &nbsp;GitHub Analytics
 
