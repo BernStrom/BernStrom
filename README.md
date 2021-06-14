@@ -37,14 +37,6 @@
 <br />
 <!-- <img src="https://thumbs.gfycat.com/CreativeAthleticCrocodile-small.gif" width="300px" height="225px"> -->
 
-### 💻 &nbsp;Workspace Spec
-![Apple Macbook Pro 2014](https://img.shields.io/badge/Apple-MacBook_Pro_2014-999999?style=for-the-badge&logo=apple&logoColor=white "Apple Macbook Pro")&nbsp;
-![Intel Core i7 4th](https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white "Intel Core i7 4th")&nbsp;
-![16GB RAM DDR3](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white "RAM 16GB DDR3")&nbsp;
-![Nvidia GT750M](https://img.shields.io/badge/NVIDIA-GT750M-76B900?style=for-the-badge&logo=nvidia&logoColor=white "NVIDIA GT750M")&nbsp;
-<br />
-<br />
-
 ## 🛠️ &nbsp;Tech Stack
 
 - **FRONTEND**\
