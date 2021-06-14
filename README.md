@@ -49,7 +49,7 @@
 
 - **FRONTEND**\
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt-"TypeScript">&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">&nbsp;
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">&nbsp;
@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">&nbsp;
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">&nbsp;
 <img src="" alt="">&nbsp;
 <img src="" alt="">&nbsp;
@@ -78,8 +78,8 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">&nbsp;
 <img src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white" alt="Jest">&nbsp;
 <img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=ffca28" alt="Firebase">&nbsp;
-<img src="https://img.shields.io/badge/eslint-4b32c3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">&nbsp;
-<img src="https://img.shields.io/badge/prettier-1a2b34?style=for-the-badge&logo=prettier&logoColor=f7b93e" alt="Prettier">&nbsp;
+<img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">&nbsp;
+<img src="https://img.shields.io/badge/prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=f7b93e" alt="Prettier">&nbsp;
 
 ## 📊 &nbsp;GitHub Analytics
 
