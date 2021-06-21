@@ -25,7 +25,7 @@
 
 <img src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif" width="260px" height="auto" align="right">
 
-### 🧔 &nbsp;Few Facts About Me
+### 🧔‍♂️ &nbsp;Few Facts About Me
 
 🖥 &nbsp;I’m currently building up my professional portfolio and searching for my first dev role.\
 🎭 &nbsp;I do most of my development work on frontend and mobile in the React ecosystem.\
