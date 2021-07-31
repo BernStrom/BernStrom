@@ -19,9 +19,9 @@
 
 ### 🎅 &nbsp;Few Facts About Me
 
-🖥 &nbsp;I’m currently building up my professional portfolio and searching for my first dev role.\
-🎭 &nbsp;I do most of my development work on frontend and mobile in the React ecosystem.\
-🍏 &nbsp;I’m exploring development in the Apple ecosystem and learning Swift on the side.\
+ &nbsp;I’m learning Swift & SwiftUI and exploring iOS development in Apple's ecosystem.\
+🖥 &nbsp;I’m building up my portfolio work and getting ready to search for new opportunities.\
+✍️ &nbsp;I'm venturing into content creation through writing blogs about career, tech & life.\
 🦁 &nbsp;Fitness and gaming are my top "downtime". _Don't Starve Together_, anyone? 💀\
 💡 &nbsp;**Inner child:** "Winter Feast" tis' the season I wish would last all year round 🎄 ☃️ ☕
 
