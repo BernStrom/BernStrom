@@ -27,7 +27,7 @@
 
 🎭 &nbsp;Credit for the GIF animation on the right goes to [Wojtek Dziedzic](https://dribbble.com/wojtekdesigns "Wojtek Dziedzic") on Dribble 👏
 
-<br />
+<!-- <br /> -->
 
 ## 🛠️ &nbsp;Tech Stack
 
