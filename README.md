@@ -15,9 +15,10 @@
 <br />
 <br />
 
-<img src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif" width="260px" height="auto" align="right">
+<!-- <img src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif" width="260px" height="auto" align="right"> -->
+<img src="https://cdn.dribbble.com/users/1464232/screenshots/3722893/animatin.gif" width="260px" height="auto" align="right">
 
-### 🎅 &nbsp;Few Facts About Me
+### 🎅 &nbsp;What's Up About Me
 
  &nbsp;I’m learning Swift & SwiftUI and exploring iOS development in Apple's ecosystem.\
 🖥 &nbsp;I’m building up my portfolio work and getting ready to search for new opportunities.\
@@ -25,10 +26,17 @@
 🦁 &nbsp;Fitness and gaming are my top "downtime". _Don't Starve Together_, anyone? 💀\
 💡 &nbsp;**Inner child:** "Winter Feast" tis' the season I wish would last all year round 🎄 ☃️ ☕
 
+🎭 &nbsp;Credit for the GIF animation on the right goes to [Wojtek Dziedzic](https://dribbble.com/wojtekdesigns "Wojtek Dziedzic") on Dribble 👏
+
 <br />
-<!-- <img src="https://thumbs.gfycat.com/CreativeAthleticCrocodile-small.gif" width="300px" height="225px"> -->
 
 ## 🛠️ &nbsp;Tech Stack
+
+- **MOBILE**\
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">&nbsp;
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">&nbsp;
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">&nbsp;
 
 - **FRONTEND**\
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
@@ -37,12 +45,6 @@
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
-
-- **MOBILE**\
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">&nbsp;
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">&nbsp;
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">&nbsp;
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">&nbsp;
   
 - **BACKEND**\
 <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno">&nbsp;
@@ -81,7 +83,7 @@
   </a>
 </p>
 
-## ☕️ &nbsp;Power Support
+## ☕️ &nbsp;Power Supply Support
 
 <p align='center'>
   <a href="https://www.buymeacoffee.com/bernstrom"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bernstrom&button_colour=ff813f&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
