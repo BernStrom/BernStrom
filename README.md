@@ -7,17 +7,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" align="center">        
+  <a href="https://twitter.com/bernnstrom">
+    <img src="https://img.shields.io/twitter/follow/bernnstrom?logo=twitter&style=for-the-badge" align="center">        
   </a>
-  
-  <a href="https://medium.com/@bernstrom">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" align="center">        
-  </a>
-  
-<!--   <a href="https://open.spotify.com/user/bstromv?si=Grn7sbu6RIGGfjmCWBSiAg">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" align="center">
-  </a> -->
 </p>
 
 <br />
@@ -42,17 +34,15 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">&nbsp;
-<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" alt="Apollo GraphQL">&nbsp;
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">&nbsp;
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
 
 - **MOBILE**\
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">&nbsp;
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">&nbsp;
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">&nbsp;
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">&nbsp;
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">&nbsp;
   
 - **BACKEND**\
 <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno">&nbsp;
@@ -67,8 +57,8 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">&nbsp;
-<img src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white" alt="Jest">&nbsp;
 <img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=ffca28" alt="Firebase">&nbsp;
+<img src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white" alt="Jest">&nbsp;
 <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">&nbsp;
 <img src="https://img.shields.io/badge/prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=f7b93e" alt="Prettier">&nbsp;
 
@@ -91,12 +81,10 @@
   </a>
 </p>
 
-## 📲 &nbsp; Daily Deets
+## ☕️ &nbsp;Power Support
 
 <p align='center'>
-  <a href="">
-    <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="" title="Follow @... on Twitter">
-  </a>
+  <a href="https://www.buymeacoffee.com/bernstrom"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bernstrom&button_colour=ff813f&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 </p>
 
 
