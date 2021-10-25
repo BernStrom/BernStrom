@@ -15,7 +15,7 @@
 <br />
 <br />
 
-<img src="https://cdn.dribbble.com/users/1464232/screenshots/3722893/animatin.gif" width="250px" height="auto" align="right">
+<img src="https://cdn.dribbble.com/users/1464232/screenshots/3722893/animatin.gif" width="240px" height="auto" align="right">
 
 ### 🎅 &nbsp;What's Up About Me
 
