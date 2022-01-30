@@ -19,7 +19,7 @@
 
 ### 🎅 &nbsp;What's Up About Me
 
- &nbsp;I’m learning Swift & SwiftUI and exploring iOS development in Apple's ecosystem.\
+ &nbsp;&nbsp;&nbsp;I’m learning iOS development in Swift & SwiftUI and exploring Apple's ecosystem.\
 🖥 &nbsp;I’m building up my portfolio work and getting ready to search for new opportunities.\
 ✍️ &nbsp;I'm venturing into content creation through writing blogs about career, tech & life.\
 🦁 &nbsp;Fitness and gaming are my top "downtime". _Don't Starve Together_, anyone? 💀\
