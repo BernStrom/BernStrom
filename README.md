@@ -83,13 +83,6 @@
   </a>
 </p>
 
-## ☕️ &nbsp;Power Supply Support
-
-<p align='center'>
-  <a href="https://www.buymeacoffee.com/bernstrom"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bernstrom&button_colour=ff813f&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
-</p>
-
-
 
 
 <!--
