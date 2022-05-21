@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Building the things for hoomans on Terra Nova 🌎
+  Building the apps for hoomans on Terra Nova 🌎
 </h3>
 
 <p align="center">
@@ -15,16 +15,22 @@
 <br />
 <br />
 
-<img src="https://cdn.dribbble.com/users/1464232/screenshots/3722893/animatin.gif" width="240px" height="auto" align="right">
+<p align="center">
+  <a href="https://dribbble.com/shots/3722893-App-Development-Process-Animation">
+    <img src="https://cdn.dribbble.com/users/1464232/screenshots/3722893/animatin.gif" width="300px" height="auto">
+  </a>
+</p>
+
+<p align="center">
+  Shoutout to <a href="https://dribbble.com/wojtekdesigns">Wojtek Dziedzic</a> for the animation design
+</p>
 
 ### 🎅 &nbsp;What's Up About Me
 
- &nbsp;&nbsp;&nbsp;I’m learning iOS development in Swift & SwiftUI and exploring Apple's ecosystem.\
-🖥 &nbsp;I’m building up my portfolio work and getting ready to search for new opportunities.\
-🦁 &nbsp;Fitness and gaming are my top "downtime". _Don't Starve Together_, anyone? 💀\
-💡 &nbsp;**Inner child:** "Winter Feast" tis' the season I wish would last all year round 🎄 ☃️ ☕
-
-🎭 &nbsp;Credit for the GIF animation on the right goes to [Wojtek Dziedzic](https://dribbble.com/wojtekdesigns "Wojtek Dziedzic") on Dribble 👏
+ &nbsp;&nbsp;&nbsp;I’m learning and working on iOS development in SwiftUI and exploring Apple's ecosystem and range of platforms.\
+🖥 &nbsp;I’m building up my portfolio work and looking out for new opportunities in iOS development.\
+🦁 &nbsp;Fitness and gaming are my favorite downtime activities. Hit me up for Leg Day & _Don't Starve Together_ 💀\
+💡 &nbsp;Obsess with the specialty coffee secene and I run my own business selling 'em. Check it out here: https://minified.coffee 🪵 ☕
 
 <!-- <br /> -->
 
