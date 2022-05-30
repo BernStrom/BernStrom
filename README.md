@@ -30,7 +30,7 @@
  &nbsp;&nbsp;&nbsp;I’m learning and working on iOS development in SwiftUI and exploring Apple's ecosystem and range of platforms.\
 🖥 &nbsp;I’m building up my portfolio work and looking out for new opportunities in iOS development.\
 🦁 &nbsp;Fitness and gaming are my favorite downtime activities. Hit me up for Leg Day & _Don't Starve Together_ 💀\
-💡 &nbsp;Obsess with the specialty coffee secene and I run my own business selling 'em. Check it out here: https://minified.coffee 🪵 ☕
+💡 &nbsp;Obsess with specialty coffee and I run my own business selling 'em. Check it out here: https://minified.coffee 🪵 ☕
 
 <!-- <br /> -->
 
