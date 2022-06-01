@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://dribbble.com/shots/3722893-App-Development-Process-Animation">
-    <img src="https://cdn.dribbble.com/users/1464232/screenshots/3722893/animatin.gif" width="300px" height="auto">
+    <img src="https://cdn.dribbble.com/users/1464232/screenshots/3722893/animatin.gif" width="auto" height="250px">
   </a>
 </p>
 
