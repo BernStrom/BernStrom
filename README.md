@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://twitter.com/bernnstrom">
-    <img src="https://img.shields.io/twitter/follow/bernnstrom?logo=twitter&style=for-the-badge" align="center">        
+    <img src="https://img.shields.io/twitter/follow/bernnystrom?logo=twitter&style=for-the-badge" align="center">        
   </a>
 </p>
 
