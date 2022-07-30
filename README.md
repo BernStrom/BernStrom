@@ -77,13 +77,6 @@
 ## 📊 &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="#"><img src="https://badges.pufler.dev/repos/bernstrom"></a>
-  <a href="#"><img src="https://badges.pufler.dev/gists/bernstrom"></a>
-  <a href="#"><img src="https://badges.pufler.dev/commits/monthly/bernstrom"></a>
-  <a href="#"><img src="https://badges.pufler.dev/visits/bernstrom/bernstrom"></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/BernStrom">
     <img src="https://github-readme-stats.vercel.app/api?username=bernstrom&count_private=true&show_icons=true&theme=prussian" width="400">
   </a>
