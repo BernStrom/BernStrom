@@ -1,9 +1,9 @@
 <h1 align="center">
-  👋 Sup Nerds! I'm Bern 👨‍💻 
+  👋 Sup y'all! I'm Bern 🎅 
 </h1>
 
 <h3 align="center">
-  Building the apps for hoomans on Terra Nova 🌎
+  Building apps for hoomans on Terra Nova 🌎
 </h3>
 
 <p align="center">
@@ -23,56 +23,35 @@
 
 <p align="center">
   <a href="https://dribbble.com/shots/3722893-App-Development-Process-Animation">
-    <img src="https://cdn.dribbble.com/users/1464232/screenshots/3722893/animatin.gif" width="auto" height="250px">
+    <img src="https://cdn.dribbble.com/users/1464232/screenshots/3722893/animatin.gif" width="350px" height="auto">
   </a>
 </p>
 
 <p align="center">
-  Shoutout to <a href="https://dribbble.com/wojtekdesigns">Wojtek Dziedzic</a> for the animation design
+  🧡 Animation designed by <a href="https://dribbble.com/wojtekdesigns">Wojtek Dziedzic</a>
 </p>
 
-### 🎅 &nbsp;What's Up About Me
+### 👨‍💻 &nbsp;What's My Dealio
 
- &nbsp;&nbsp;&nbsp;I’m learning and working on iOS development in SwiftUI and exploring Apple's ecosystem and range of platforms.\
-🖥 &nbsp;I’m building up my portfolio work and looking out for new opportunities in iOS development.\
-🦁 &nbsp;Fitness and gaming are my favorite downtime activities. Hit me up for Leg Day & _Don't Starve Together_ 💀\
-💡 &nbsp;Obsess with specialty coffee and I run my own business selling 'em. Check it out here: https://minified.coffee 🪵 ☕
+🔍 &nbsp;I’m currently on the lookout for new opportunities in iOS development.\
+👨‍🍳 &nbsp;I build apps with Swift and mostly SwiftUI while exploring Apple's ecosystem of platforms to develop on.\
+🦁 &nbsp;Fitness and gaming are my favorite downtime activities. Hit me up for Leg Day or _Don't Starve Together_ 💀\
+☕ &nbsp;Specialty coffee enthusiast and I run my own business selling 'em. Check it out here: https://minified.coffee 🪵
 
-<!-- <br /> -->
+## 🛠️ &nbsp;Tech Stuff
 
-## 🛠️ &nbsp;Tech Stack
-
-- **MOBILE - iOS**\
+- ** DEV - iOS**\
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">&nbsp;
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">&nbsp;
 <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=black" alt="SwiftUI">&nbsp;
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">&nbsp;
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">&nbsp;
-
-- **FRONTEND - WEB**\
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
-  
-- **BACKEND - WEB**\
-<img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno">&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">&nbsp;
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">&nbsp;
-<img src="" alt="">&nbsp;
-
-- **DEV TOOLS**\
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white" alt="UIKit">&nbsp;
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">&nbsp;
-<img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=ffca28" alt="Firebase">&nbsp;
-<img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">&nbsp;
-<img src="https://img.shields.io/badge/prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=f7b93e" alt="Prettier">&nbsp;
+<img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iTerm2&logoColor=white" alt="iTerm2">&nbsp;
+<!-- <img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=ffca28" alt="Firebase">&nbsp; -->
+
+* **HTML & CSS with Vanilla JS projects from when I first started coding 👉**&nbsp;<a href="https://codepen.io/bernstrom"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" align="center"></a>
 
 ## 📊 &nbsp;GitHub Analytics
 
