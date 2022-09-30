@@ -50,11 +50,11 @@
 
 <p align="center">
   <a href="https://github.com/BernStrom">
-    <img src="https://github-readme-stats.vercel.app/api?username=bernstrom&count_private=true&show_icons=true&theme=prussian" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=bernstrom&count_private=true&show_icons=true&theme=ayu-mirage" width="400">
   </a>
   
   <a href="https://github.com/BernStrom">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernstrom&langs_count=10&layout=compact&theme=prussian&hide=stylus,scss,ruby,php,shell,dockerfile" width="335">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernstrom&langs_count=10&layout=compact&theme=ayu-mirage&hide=stylus,scss,ruby,php,shell,dockerfile" width="335">
   </a>
 </p>
 
