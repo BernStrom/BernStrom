@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Sup y'all! I'm Bern 🎅 
+  👋 Sup, nerds! I'm Bern 🎅 
 </h1>
 
 <h3 align="center">
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://dribbble.com/shots/3722893-App-Development-Process-Animation">
-    <img src="https://cdn.dribbble.com/users/1464232/screenshots/3722893/animatin.gif" width="350px" height="auto">
+    <img src="https://cdn.dribbble.com/users/1464232/screenshots/3722893/animatin.gif" width="305px" height="auto">
   </a>
 </p>
 
@@ -27,10 +27,10 @@
 
 ### 👨‍💻 &nbsp;What's My Dealio
 
-🔍 &nbsp;I’m currently on the lookout for new opportunities in iOS development.\
-👨‍🍳 &nbsp;I build apps with Swift and mostly SwiftUI while exploring Apple's ecosystem of platforms to develop on.\
-🦁 &nbsp;Fitness and gaming are my favorite downtime activities. Hit me up for Leg Day or _Don't Starve Together_ 💀\
-☕ &nbsp;Specialty coffee enthusiast and I run my own business selling 'em. Check it out here: https://minified.coffee 🪵
+🔍 &nbsp;I’m currently on the lookout for new opportunities in iOS Development. Check out my latest project [here](https://github.com/BernStrom/iOSDevProjects/tree/main/iOSNetworking/Project01/Citysights).\
+👨‍🍳 &nbsp;I build apps on the iOS platform with Swift & SwiftUI, while learning app development on other Apple platforms.\
+🦁 &nbsp;Fitness and gaming are my favorite downtime activities. Hit me up for Leg Day or _Don't Starve Together_. 💀\
+☕ &nbsp;Specialty coffee annd matcha enthusiast & addict. Always up for a cuppa for any kind of discussion. 🍵
 
 ## 🛠️ &nbsp;Tech Stuff
 
@@ -50,11 +50,11 @@
 
 <p align="center">
   <a href="https://github.com/BernStrom">
-    <img src="https://github-readme-stats.vercel.app/api?username=bernstrom&count_private=true&show_icons=true&theme=ayu-mirage" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=bernstrom&count_private=true&show_icons=true&theme=ayu-mirage"&width="350">
   </a>
   
   <a href="https://github.com/BernStrom">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernstrom&langs_count=10&layout=compact&theme=ayu-mirage&hide=stylus,scss,ruby,php,shell,dockerfile" width="335">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernstrom&langs_count=10&layout=compact&theme=ayu-mirage&hide=stylus,scss,ruby,php,shell,dockerfile" width="355">
   </a>
 </p>
 
