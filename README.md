@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Sup, nerds! I'm Bern 🎅 
+  I'm Bern. I love space 🌌
 </h1>
 
 <h3 align="center">
@@ -29,8 +29,8 @@
 
 🔍 &nbsp;I’m currently on the lookout for new opportunities in iOS Development. Check out my latest project [here](https://github.com/BernStrom/iOSDevProjects/tree/main/Citysights).\
 👨‍🍳 &nbsp;I build apps on the iOS platform mostly in Swift & SwiftUI, while learning app development in other frameworks.\
-🦁 &nbsp;Fitness and gaming are my favorite downtime activities. Hit me up for Leg Day or _Don't Starve Together_. 💀\
-☕ &nbsp;Specialty coffee and matcha enthusiast & addict. Always up for a cuppa for any kind of discussion. 🍵
+🦁 &nbsp;Fitness and gaming are my favorite downtime activities. Hit me up for Leg Day or _Oxygen Not Included_. 💀\
+☕ &nbsp;Specialty coffee and matcha enthusiast. Always up for a cuppa for any kind of discussion or simply *hygge*. 🍵
 
 ## 🛠️ &nbsp;Tech Stuff
 
