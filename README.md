@@ -27,10 +27,10 @@
 
 ### 👨‍💻 &nbsp;What's My Dealio
 
-🔍 &nbsp;I’m currently on the lookout for new opportunities in iOS Development. Check out my latest project [here](https://github.com/BernStrom/iOSDevProjects/tree/main/Citysights).\
+🔍 &nbsp;I’m currently on the lookout for new opportunities in iOS Development. Check out my recent project [here](https://github.com/BernStrom/iOSDevProjects/tree/main/Citysights).\
 👨‍🍳 &nbsp;I build apps on the iOS platform mostly in Swift & SwiftUI, while learning app development in other frameworks.\
-🦁 &nbsp;Fitness and gaming are my favorite downtime activities. Hit me up for Leg Day or _Oxygen Not Included_. 💀\
-☕ &nbsp;Specialty coffee and matcha enthusiast. Always up for a cuppa for any kind of discussion or simply *hygge*. 🍵
+🦁 &nbsp;Fitness and gaming are my favorite downtime activities. Hit me up for Leg Day or _Factorio_. 💀\
+☕ &nbsp;Specialty coffee and matcha enthusiast. 🍵
 
 ## 🛠️ &nbsp;Tech Stuff
 
